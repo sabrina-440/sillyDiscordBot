@@ -6,7 +6,11 @@ This Discord bot will scrape all of a specified users messages in a server then 
 <img width="302" height="130" alt="image" src="https://github.com/user-attachments/assets/74c2d679-1391-4f96-8c8b-bdb33f2bfe66" />
 
 ## commands
-can give u dan courses too bc why not lol <img width="1003" height="351" alt="image" src="https://github.com/user-attachments/assets/3b9edb87-ba9f-4240-8032-3abc1740fbb9" />
+!ddr to get a random song from the hit arcade game dance dance revolution world
+<img width="1156" height="401" alt="image" src="https://github.com/user-attachments/assets/c88da85d-54ad-4dc7-8fa1-e6298aa42a8a" />
+
+
+can give u dan courses from the arcade game beatmania IIDX too bc why not lol <img width="1003" height="351" alt="image" src="https://github.com/user-attachments/assets/3b9edb87-ba9f-4240-8032-3abc1740fbb9" />
 
 
 
